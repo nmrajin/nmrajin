@@ -1,4 +1,4 @@
-# ```Hi there, I'm Rakibul Islam! 👋 ```
+# ```Hi, I'm Nur Mohammed Rajin! 👋 ```
 
 I'm a BSc in CSE student at Southeast University, Dhaka.
 
