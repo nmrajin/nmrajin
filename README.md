@@ -4,7 +4,6 @@ I'm a BSc in CSE student at Southeast University, Dhaka.
 
 # 💫 About Me:
 🔭 I’m currently studying B.Sc. in Computer Science<br>🌱 I’m currently learning Machine Learning, Kotlin and Web Development.<br>📫 You can reach me at: rajin0619@gmail.com <br>
-📫 You can reach me at: rajin0619@gmail.com
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/XHKM8zmB6H) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/NMRajin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nmrajin) 
