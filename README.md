@@ -1,7 +1,5 @@
 # ```Hi, I'm Nur Mohammed Rajin! 👋 ```
 
-I'm a BSc in CSE student at Southeast University, Dhaka.
-
 # 💫 About Me:
 🔭 I’m currently studying B.Sc. in Computer Science<br>🌱 I’m currently learning Machine Learning, Kotlin and Web Development.<br>📫 You can reach me at: rajin0619@gmail.com <br>
 
