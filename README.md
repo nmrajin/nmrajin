@@ -8,7 +8,7 @@
 
 ## Projects
 
-Here are some of my projects:
+Here are some of my academic projects:
 
 - [E-Commerce Web Application](https://github.com/Rajin-afk/Web-Lab-Project)
 - [Building City of Gold using OpenGL and glut](https://github.com/Rajin-afk/Computer_Graphics_Project_Building_City_of_Gold_using_OPENGL_glut)
