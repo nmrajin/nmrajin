@@ -29,8 +29,8 @@ Here are some of my academic projects:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 Random Dev Meme XD
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
+----
 [![](https://visitcount.itsvg.in/api?id=nmrajin&icon=0&color=6)](https://visitcount.itsvg.in)
