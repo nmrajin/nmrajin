@@ -16,7 +16,7 @@
 - 🐧 Experienced with **Linux server administration, containerization, and DevOps workflows**.
 - 🧠 Deeply interested in **AI/ML integration**, intelligent workflows, and scalable architectures.
 - 🎨 Passionate about UI/UX design, visual creativity, and embedded hardware (Arduino).
-- 📫 Reach me directly at: **[rajin0619@gmail.com](mailto:rajin0619@gmail.com)**
+<!--- 📫 Reach me directly at: **[rajin0619@gmail.com](mailto:rajin0619@gmail.com)**-->
 
 ---
 
